@@ -1,1 +1,10 @@
-{"fontes":{}}
+{
+  "fontes": {
+    "cetic_domicilios_2025": {
+      "tag": "tic-dom-2025-20260603",
+      "publicado_em": "2026-06-03",
+      "url_parquet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260603/tic_domicilios_2025_conectividade.parquet",
+      "url_dicionario": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260603/tic_domicilios_2025_dicionario.json"
+    }
+  }
+}
