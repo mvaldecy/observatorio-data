@@ -1,17 +1,18 @@
 {
   "fontes": {
     "cetic_domicilios_2025": {
-      "tag": "tic-dom-2025-20260605",
-      "publicado_em": "2026-06-05",
-      "url_parquet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260605/tic_domicilios_2025_conectividade.parquet",
-      "url_dicionario": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260605/tic_domicilios_2025_dicionario.json",
+      "tag": "tic-dom-2025-20260608",
+      "publicado_em": "2026-06-08",
+      "url_parquet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260608/tic_domicilios_2025_conectividade.parquet",
+      "url_dicionario": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260608/tic_domicilios_2025_dicionario.json",
       "views": {
-        "acesso_internet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260605/tic_domicilios_2025_view_acesso_internet.parquet",
-        "barreiras_acesso": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260605/tic_domicilios_2025_view_barreiras_acesso.parquet",
-        "dispositivos": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260605/tic_domicilios_2025_view_dispositivos.parquet",
-        "tipo_conexao": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260605/tic_domicilios_2025_view_tipo_conexao.parquet",
-        "velocidade": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260605/tic_domicilios_2025_view_velocidade.parquet"
-      }
+        "acesso_internet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260608/tic_domicilios_2025_view_acesso_internet.parquet",
+        "barreiras_acesso": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260608/tic_domicilios_2025_view_barreiras_acesso.parquet",
+        "dispositivos": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260608/tic_domicilios_2025_view_dispositivos.parquet",
+        "tipo_conexao": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260608/tic_domicilios_2025_view_tipo_conexao.parquet",
+        "velocidade": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260608/tic_domicilios_2025_view_velocidade.parquet"
+      },
+      "url_filtros": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260608/tic_domicilios_2025_filtros.json"
     },
     "cetic_individuos_2025": {
       "tag": "tic-ind-2025-20260607",
