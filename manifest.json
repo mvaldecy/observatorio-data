@@ -20,21 +20,26 @@
       "url_filtros": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-dom-2025-20260618/tic_domicilios_2025_filtros.json"
     },
     "cetic_individuos_2025": {
-      "tag": "tic-ind-2025-20260608",
-      "publicado_em": "2026-06-08",
-      "url_parquet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_conectividade.parquet",
-      "url_dicionario": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_dicionario.json",
+      "nome": "CETIC TIC Indivíduos",
+      "ano": 2025,
+      "tema": "conectividade",
+      "unidade_analise": "individuo",
+      "n_registros": 24535,
+      "tag": "tic-ind-2025-20260618",
+      "publicado_em": "2026-06-18",
+      "url_parquet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_conectividade.parquet",
+      "url_dicionario": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_dicionario.json",
       "views": {
-        "atividades_online": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_view_atividades_online.parquet",
-        "barreiras": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_view_barreiras.parquet",
-        "celular": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_view_celular.parquet",
-        "dispositivos": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_view_dispositivos.parquet",
-        "governo_digital": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_view_governo_digital.parquet",
-        "habilidades_digitais": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_view_habilidades_digitais.parquet",
-        "local_acesso": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_view_local_acesso.parquet",
-        "uso_internet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_view_uso_internet.parquet"
+        "atividades_online": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_view_atividades_online.parquet",
+        "barreiras": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_view_barreiras.parquet",
+        "celular": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_view_celular.parquet",
+        "dispositivos": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_view_dispositivos.parquet",
+        "governo_digital": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_view_governo_digital.parquet",
+        "habilidades_digitais": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_view_habilidades_digitais.parquet",
+        "local_acesso": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_view_local_acesso.parquet",
+        "uso_internet": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_view_uso_internet.parquet"
       },
-      "url_filtros": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260608/tic_individuos_2025_filtros.json"
+      "url_filtros": "https://github.com/mvaldecy/observatorio-data/releases/download/tic-ind-2025-20260618/tic_individuos_2025_filtros.json"
     }
   }
 }
