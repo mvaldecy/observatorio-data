@@ -52,12 +52,11 @@
       "url_parquet": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_conectividade.parquet",
       "url_dicionario": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_dicionario.json",
       "views": {
-        "acesso_internet": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2024_view_acesso_internet.parquet",
-        "infraestrutura_tic": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2024_view_infraestrutura_tic.parquet",
-        "internet_administrativo": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2024_view_internet_administrativo.parquet",
-        "internet_pedagogico": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2024_view_internet_pedagogico.parquet",
-        "tipo_conexao": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2024_view_tipo_conexao.parquet",
-        "internet_comunidade": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2024_view_internet_comunidade.parquet"
+        "acesso_internet": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_view_acesso_internet.parquet",
+        "infraestrutura_tic": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_view_infraestrutura_tic.parquet",
+        "internet_administrativo": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_view_internet_administrativo.parquet",
+        "internet_pedagogico": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_view_internet_pedagogico.parquet",
+        "tipo_conexao": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_view_tipo_conexao.parquet"
       },
       "url_filtros": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_filtros.json"
     }
