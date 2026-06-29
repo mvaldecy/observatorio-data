@@ -61,6 +61,11 @@
       "url_filtros": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2023-20260629/inep_censo_escolar_2023_filtros.json"
     },
     "inep_censo_escolar_2024": {
+      "nome": "INEP Censo Escolar da Educação Básica",
+      "ano": 2024,
+      "tema": "conectividade",
+      "unidade_analise": "escola",
+      "n_registros": 181065,
       "tag": "inep-censo-2024-20260629",
       "publicado_em": "2026-06-29",
       "url_parquet": "https://github.com/mvaldecy/observatorio-data/releases/download/inep-censo-2024-20260629/inep_censo_escolar_2024_conectividade.parquet",
